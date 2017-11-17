@@ -1,0 +1,18 @@
+Question: 1 In one state, 52% of the voters are BJP, and 48% are Congress. In a second state, 47% of the voters are BJP, and 53% are Congress. Suppose a simple random sample of 100 voters are surveyed from each state. What is the probability that the survey will show a greater percentage of BJP voters in the second state than in the first state?
+Question: 3 Name the Tool Techniques discussed in the Session for Data Handling w.r.t Data Science.
+Question: 4 Frame in your Words Why we use Sampling and describe their Types based on Session Discussion? (Not more than 100 Words).
+Question: 5 Can we apply a Machine Learning Algorithm directly with Raw Data? Yes / No. Justify (100 words)?
+Question: 6 Military Soldier records show that of patients suffering from a certain disease, 75% die of it. What is the probability that of the 6 randomly selected Soldiers, 4 will recover?
+Question: 7: Ten percent of computer parts produced by a certain supplier are defective. What is the probability that a sample of 10 parts contains more than 3 defective ones?
+Question: 8: What is the difference between supervised and unsupervised machine learning?( 50 Words)
+Question: 9: What is Bayes’ Theorem? How is it useful in a machine learning context?
+Marie is getting married tomorrow, at an outdoor ceremony in the desert. In recent years, it has rained only 5 days each year. Unfortunately, the weatherman has predicted rain for tomorrow. When it actually rains, the weatherman correctly forecasts rain 90% of the time. When it doesn't rain, he incorrectly forecasts rain 10% of the time. What is the probability that it will rain on the day of Marie's wedding?
+Question: 10: What is Normal Distribution? Write the Normal Distribution as a Mathematical Function?
+?	What’s the Z Value of getting a math SAT score of 575 or less, ?=500 and ?=50?
+?	Explain Process to check that the Data is Normally Distributed?
+Question 11: Write differences between Descriptive and Inferential Statistics?
+Question 12: 5000 orders received in the last month.3000 (60%) were from new customers.2000 (40%) were from old customers. So it looks like the new customers are doing better. Identify the Catch here?
+Question 13: What is Data Engineering .What Role does Datatype Play in Data Analysis. Comment in not more than 100 words.
+Question 14: Describe the impact of Outliers in a Data Set. What can be the potential impacts on the analysis? (Limit- 100 Words)
+Question 15: Does all data have a median, mode and mean? Comment in not more than 100 words.
+
