@@ -1,0 +1,24 @@
+Hi,
+ 
+Please find the attachment for Practice:
+ 
+Lab 1-MS Training
+Medicine.csv( To be used for Linear regression Modelling . Code provided in Lab1 –MS Training.txt)
+BasicLab.txt
+ 
+   
+ 
+Assignment Sample.csv is attached for your Analysis .Please apply Correlation and Regression Analysis as we have discussed in Class and also try to break down the Clustering in the attached Data Set between Country and Type of Meat Consumed.
+ 
+Rules of the Game:
+ 
+Use Pen and Paper before Excel.
+Try to formulate your Analysis in Excel.
+Google your Intelligence within.
+Hidden here are Clusters. Prefer grouping of Variables rather than falling on Central tendency.
+ 
+ 
+We ‘ll do the Clustering in Upcoming Classes. Also please complete& Submit your last Assignment of Statistics asap.
+ 
+Best Regards,
+Arun Saxena
